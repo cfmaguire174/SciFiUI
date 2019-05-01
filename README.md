@@ -1,12 +1,11 @@
 # SciFi UI Project
 
-Name:
+Name: Conor Maguire
 
-Student Number: 
-
-Fork this repository and use it a starter project for your assignment
+Student Number: D18124735
 
 # Description of the assignment
+
 
 # Instructions
 
