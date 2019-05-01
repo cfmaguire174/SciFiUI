@@ -12,7 +12,12 @@ The idea for this assignment was to recreate an interactable version of the gif 
 
 # Instructions
 
-Compile and run programme
+Create a bin folder in SciFiUI/Java
+
+Compile and run programme in git bash
+
+./complie.sh
+./run.sh
 
 # How it (ment to) works
 
