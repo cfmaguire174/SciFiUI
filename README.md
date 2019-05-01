@@ -6,7 +6,7 @@ Student Number: D18124735
 
 # Description of the assignment
 
-
+![An image](images/IMG_5036.mov)
 # Instructions
 
 # How it works
