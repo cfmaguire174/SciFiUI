@@ -6,7 +6,7 @@ Student Number: D18124735
 
 # Description of the assignment
 
-![An image](images/IMG_5036.mov)
+![Sol System](images/IMG_5036.gif)
 # Instructions
 
 # How it works
