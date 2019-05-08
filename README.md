@@ -25,7 +25,7 @@ The planetary information is read in from the file Planets.csv were it is loaded
 
 # What I am most proud of in the assignment
 
-Not really a whole lot, I fail to get the plants to rotate, the function to do this spin() moves them the origin and I have no idea why. So, it’s simple commented out. Beyond this the distance calculator works and the size of the planets are scaled correctly, the log of their diameter was taken so that a planet 10 times the size of another would be twice as big. The same goes for the distance between them, but it was also considered that the planets should have the option to be spaces evenly because they overlap as such the was to switch to toggle between the two modes.
+Not really a whole lot, I failed to get the planets to rotate, the function to do this spin() moves them the origin and I have no idea why. So, it’s simple commented out. Beyond this the distance calculator works and the size of the planets are scaled correctly, the log of their diameter was taken so that a planet 10 times the size of another would be twice as big. The same goes for the distance between them, but it was also considered that the planets should have the option to be spaces evenly because they overlap as such the was to switch to toggle between the two modes.
 
 # Markdown Tutorial
 
